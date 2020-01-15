@@ -49,7 +49,7 @@ public class RegistrationController {
 		} else {
 			user = userService.getUserByEmail(user.getEmail());
 			String subject = "Confirm email for Mult-level Authentication";
-			String body = "Please the link: http://192.168.1.5:8080/registration/" + user.getId() + "/confirm/?otp=" + user.getOtp() + " to confirm your email.";
+			String body = "Please the link: http://localhost:8080/registration/" + user.getId() + "/confirm/?otp=" + user.getOtp() + " to confirm your email.";
 			emailer.sendEmail(user.getEmail(), subject, body);
 			model.addAttribute("message", "An email has been sent to you. Please check you inbox to confirm it.");
 			model.addAttribute("css", "alert alert-success");
@@ -92,7 +92,7 @@ public class RegistrationController {
 			body.append(System.getProperty("line.separator"));
 			body.append("Please click the following link to reset your password:");
 			body.append(System.getProperty("line.separator"));
-			body.append("http://192.168.1.5:8080/registration/resetPassword/" + email);
+			body.append("http://localhost:8080/registration/resetPassword/" + email);
 			body.append("?otp=" + otp);
 			body.append(System.getProperty("line.separator"));
 			body.append("Thank you,");
