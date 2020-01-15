@@ -14,19 +14,12 @@ This is a web application developed using Java. Following technologies are used 
 
 
 It has several modules:
-1. Total registration management
-  Sign up,
-  Email verification,
-  Reset password
-2. Profile management
-  Sign in / sign out
-  Secure access of profile
-3. Complete CRUD operation with resources
-  Profile
-  Apps
+1. Total registration management: sign up, email verification, resetting password
+2. Profile management: sign in/sign out, secure access of profile
+3. Complete CRUD operation with resources: profile and apps
 4. Miscellaneous
-  File upload / download facility
-  Manual authentication and authorization (i.e., withoug OAuth)
-  Custom notification at each transaction or failed operation
+  a. File upload/download facility
+  b. Manual authentication and authorization (i.e., withoug OAuth)
+  c. Custom notification at each transaction or failed operation
 
 Cheers.
