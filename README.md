@@ -25,6 +25,7 @@ It has several modules:
 4. Miscellaneous
   a. File upload / download facility
   b. Manual authentication and authorization (i.e., withoug OAuth)
+  c. Custom notification at each transaction or failed operation
 
 
 Cheers.
