@@ -26,4 +26,4 @@ Cheers.
 
 
 Some screencast of the web application:
-![](https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/apps_list.PNG width="250" height="250")
+<img src="https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/apps_list.PNG" width="250" height="250">
