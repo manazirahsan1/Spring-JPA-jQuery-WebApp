@@ -1,6 +1,6 @@
 # Some screencast of the web application:
 <h3>Home Page</h3>
-![](https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/landing_page.PNG)
+<img src="images/landing_page.PNG">
 
 
 
