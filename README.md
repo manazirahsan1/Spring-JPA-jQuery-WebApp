@@ -1,3 +1,9 @@
+# Some screencast of the web application:
+<h3>Home Page</h3>
+![](images/landing_page.PNG)
+
+
+
 # Spring-JPA-jQuery-WebApp
 
 Executing instruction:
@@ -23,9 +29,3 @@ It has several modules:
   c. Custom notification at each transaction or failed operation
 
 Cheers.
-
-
-# Some screencast of the web application:
-![](images/landing_page.PNG)
-
-![All apps](images/apps_list.PNG)
