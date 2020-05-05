@@ -1,7 +1,10 @@
 # Some screencast of the web application:
 <h3>Home Page</h3>
 <img src="images/landing_page.PNG">
-
+<img src="images/registration_error.PNG">
+<img src="images/registration_returned_user_error.PNG">
+<img src="images/reset_password_send_email.PNG">
+<img src="images/reset_password_email_has_been_sent.PNG">
 
 
 # Spring-JPA-jQuery-WebApp
