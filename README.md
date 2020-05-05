@@ -3,7 +3,7 @@
 Executing instruction:
 The app is ready to go immediately after pulling to local machine. All that you need to do is to change the data source to your database in the following file:
 https://github.com/manazirahsan1/Spring-JPA-jQuery-WebApp/blob/master/src/main/resources/application.properties
-
+https://github.com/manazirahsan1/Spring-JPA-jQuery-WebApp/watchers
 
 This is a web application developed using Java. Following technologies are used to implement it:
 1. Language: Java
@@ -26,4 +26,4 @@ Cheers.
 
 
 Some screencast of the web application:
-![](https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/apps_list.PNG =250x250)
+![](https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/apps_list.PNG width="250" height="250")
