@@ -25,5 +25,7 @@ It has several modules:
 Cheers.
 
 
-Some screencast of the web application:
+# Some screencast of the web application:
+![](images/landing_page.PNG)
+
 ![All apps](https://raw.githubusercontent.com/manazirahsan1/Spring-JPA-jQuery-WebApp/master/images/apps_list.PNG)
