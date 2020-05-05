@@ -23,3 +23,7 @@ It has several modules:
   c. Custom notification at each transaction or failed operation
 
 Cheers.
+
+
+Some screencast of the web application:
+![](images/apps_list.png)
