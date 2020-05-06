@@ -1,15 +1,15 @@
 # Some screencast of the web application:
-<h3>Home Page</h3>
+<h3 style="color:green">Home Page</h3>
 <img src="images/landing_page.PNG">
 
-<h3>Registration Error: Invalid Input</h3>
+<h3 style="color:green">Registration Error: Invalid Input</h3>
 <img src="images/registration_error.PNG">
-<h3>Registration Error: Email Already Registered</h3>
+<h3 style="color:green">Registration Error: Email Already Registered</h3>
 <img src="images/registration_returned_user_error.PNG">
 
-<h3>Reset Password: Enter Email</h3>
+<h3 style="color:green">Reset Password: Enter Email</h3>
 <img src="images/reset_password_send_email.PNG">
-<h3>Reset Password: Emain Sent Notification</h3>
+<h3 style="color:green">Reset Password: Emain Sent Notification</h3>
 <img src="images/reset_password_email_has_been_sent.PNG">
 
 
