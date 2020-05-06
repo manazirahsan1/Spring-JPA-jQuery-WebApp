@@ -1,5 +1,5 @@
 # Some screencast of the web application:
-<h3 style="color:green">Home Page</h3>
+<h3 style='color:green'>Home Page</h3>
 <img src="images/landing_page.PNG">
 
 <h3 style="color:green">Registration Error: Invalid Input</h3>
