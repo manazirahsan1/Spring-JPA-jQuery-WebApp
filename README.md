@@ -1,16 +1,21 @@
 # Some screencast of the web application:
-<h3>Home Page</h3>
+<h2>Home Page</h2>
 <img src="images/landing_page.PNG">
 
-<h3>Registration Error: Invalid Input</h3>
+<h2>Registration Error: Invalid Input</h2>
 <img src="images/registration_error.PNG">
-<h3>Registration Error: Email Already Registered</h3>
+<h2>Registration Error: Email Already Registered</h2>
 <img src="images/registration_returned_user_error.PNG">
 
-<h3>Reset Password: Enter Email</h3>
+<h2>Reset Password: Enter Email</h2>
 <img src="images/reset_password_send_email.PNG">
-<h3>Reset Password: Emain Sent Notification</h3>
+<h2>Reset Password: Email Sent Notification</h2>
 <img src="images/reset_password_email_has_been_sent.PNG">
+
+<h2>Login Error: Empty Fields</h2>
+<img src="images/login_error_empty_fields.PNG">
+<h2>Login Error: Invalid Input</h2>
+<img src="images/login_error_invalid_data.PNG">
 
 
 # Spring-JPA-jQuery-WebApp
